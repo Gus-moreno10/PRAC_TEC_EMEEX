@@ -1,0 +1,15 @@
+<svg width="900" height="540" viewBox="0 0 900 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="540" rx="28" fill="#06101C"/>
+  <rect x="50" y="58" width="800" height="424" rx="26" fill="#09192A" stroke="#193551" stroke-width="2"/>
+  <rect x="92" y="102" width="252" height="246" rx="22" fill="#0E2439"/>
+  <rect x="122" y="132" width="192" height="146" rx="18" fill="#102D46"/>
+  <path d="M122 300H314" stroke="#61E4FF" stroke-width="8" stroke-linecap="round"/>
+  <rect x="396" y="106" width="292" height="26" rx="13" fill="#D9B36C"/>
+  <rect x="396" y="156" width="338" height="18" rx="9" fill="#6E89A9"/>
+  <rect x="396" y="190" width="286" height="18" rx="9" fill="#6E89A9"/>
+  <rect x="396" y="242" width="170" height="62" rx="18" fill="#61E4FF"/>
+  <path d="M441 273H521" stroke="#062030" stroke-width="8" stroke-linecap="round"/>
+  <path d="M96 392H718" stroke="#183653" stroke-width="2"/>
+  <circle cx="760" cy="136" r="46" fill="#0D2133"/>
+  <path d="M760 112L764.757 131.243L784 136L764.757 140.757L760 160L755.243 140.757L736 136L755.243 131.243L760 112Z" fill="#61E4FF"/>
+</svg>
